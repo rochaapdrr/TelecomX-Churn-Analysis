@@ -21,7 +21,7 @@ A análise foi desenvolvida utilizando técnicas de **Ciência de Dados** e **An
 - Conteúdo: Informações demográficas, dados de contrato, serviços utilizados e status de churn
 - Os dados foram carregados, normalizados e tratados para remoção de inconsistências e valores ausentes antes da análise.
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ A análise foi desenvolvida utilizando técnicas de **Ciência de Dados** e **An
 - Seaborn
 - Google Colab
 
-🔍 Etapas da Análise
+## 🔍 Etapas da Análise
 
 - Extração dos dados
 - Leitura de arquivo JSON
@@ -46,19 +46,19 @@ A análise foi desenvolvida utilizando técnicas de **Ciência de Dados** e **An
 - Identificação de fatores associados ao churn
 - Análise do perfil dos clientes com maior propensão ao cancelamento
 
-📈 Principais Insights
+## 📈 Principais Insights
 
 - Clientes com contrato mensal apresentam maior taxa de churn
 - Menor tempo de permanência está associado a maior probabilidade de cancelamento
 - Clientes com menor gasto mensal tendem a cancelar com mais frequência
 - Serviços adicionais contribuem para a redução do churn
 
-##🚀 Próximos Passos
+## 🚀 Próximos Passos
 
 - Implementar modelos preditivos de churn
 - Avaliar métricas de desempenho
 - Simular estratégias de retenção de clientes
 
-##👤 Autor
+## 👤 Autor
 
 - Projeto desenvolvido por Pedro Oliveira Rocha
