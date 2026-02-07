@@ -14,21 +14,6 @@ A análise foi desenvolvida utilizando técnicas de **Ciência de Dados** e **An
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-```text
-telecomx-churn/
-│
-├── data/
-│   └── raw/
-│       └── TelecomX_Data.json
-│
-├── notebooks/
-│   └── TelecomX_Churn_Analysis.ipynb
-│
-├── README.md
-```
-
 ## 📁 Conjunto de Dados
 
 - Formato: JSON
